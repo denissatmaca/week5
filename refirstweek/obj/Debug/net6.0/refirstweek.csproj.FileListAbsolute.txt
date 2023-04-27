@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\refirstweek\refirstweek\bin\Debug\net6.0\refirstweek.exe
+C:\Users\monster\source\repos\refirstweek\refirstweek\bin\Debug\net6.0\refirstweek.deps.json
+C:\Users\monster\source\repos\refirstweek\refirstweek\bin\Debug\net6.0\refirstweek.runtimeconfig.json
+C:\Users\monster\source\repos\refirstweek\refirstweek\bin\Debug\net6.0\refirstweek.dll
+C:\Users\monster\source\repos\refirstweek\refirstweek\bin\Debug\net6.0\refirstweek.pdb
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refirstweek.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refirstweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refirstweek.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refirstweek.AssemblyInfo.cs
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refirstweek.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refirstweek.dll
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refint\refirstweek.dll
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refirstweek.pdb
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\refirstweek.genruntimeconfig.cache
+C:\Users\monster\source\repos\refirstweek\refirstweek\obj\Debug\net6.0\ref\refirstweek.dll
